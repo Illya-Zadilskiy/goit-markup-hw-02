@@ -7,7 +7,7 @@ li {
 a {
     text-decoration: none;
 }
-
+ 
 
 /* header */
 
@@ -27,9 +27,14 @@ a {
      color: #4d5ae5;
 }
 
+.background {
+    background-color: #FFFFFF
+}
 
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455
+    
 }
 
 .word-lis {

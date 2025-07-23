@@ -11,7 +11,7 @@ a {
 
 /* header */
 
-.logo-italik-nav {
+.logo_italik_nav {
     font-weight: 700;
      font-size: 18px;
      line-height: 1.16667;
@@ -42,7 +42,7 @@ body {
     
 }
 
-.word-lis {
+.word_lis {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -50,7 +50,7 @@ body {
     color: #2e2f42;
 }
 
-.logo-adress {
+.logo_adress {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -60,13 +60,18 @@ body {
 
 /* section 1 */
 
-.main-page-title {
+.main_page {
+    background-color:#2e2f42
+}
+
+.main_page_title {
     font-weight: 700;
     font-size: 56px;
     line-height: 1.07143;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    line-height: 1.07
 }
 
 .button {
@@ -75,11 +80,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+    background-color: #4D5AE5
 } 
 
 /* section 2 */
 
-.section2-titl {
+.section2_titl {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -87,7 +93,7 @@ body {
     color: #2e2f42;
 }
 
-.section2-titl-text {
+.section2_titl_text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -97,7 +103,7 @@ body {
 
 /* section 3 */
 
-.section3-titl {
+.section3_titl {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -106,7 +112,7 @@ body {
     color: #2e2f42;
 }
 
-.titl-logo {
+.titl_logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -115,7 +121,7 @@ body {
     color: #2e2f42;
 }
 
-.titl-logo-text {
+.titl_logo_text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -124,7 +130,7 @@ body {
     color: #434455;
 }
 
-.footer-text {
+.footer_text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -134,7 +140,7 @@ body {
 
 /* section 4 */
 
-.section4-titl {
+.section4_titl {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11111;
@@ -143,7 +149,7 @@ body {
     color: #2e2f42;
 }
 
-.section4-titl-logo {
+.section4_titl_logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -151,7 +157,7 @@ body {
     color: #2e2f42;
 }
 
-.section4-titl-logo-text {
+.section4_titl_logo_text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -161,7 +167,7 @@ body {
 
 /* footer */
 
-.footer-text{
+.footer_text{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;

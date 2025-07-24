@@ -10,11 +10,11 @@ a {
 
 body {
     font-family: "Roboto", sans-serif;
-    color: #434455
+    color: #434455;
 }
 
 .background {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
  
 
@@ -59,7 +59,7 @@ body {
 
 .word_list:hover,
 .word_list:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 .logo_address {
@@ -68,13 +68,13 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    font-style: normal
+    font-style: normal;
 }
 
 /* section 1 */
 
 .main_page {
-    background-color:#2e2f42
+    background-color:#2e2f42;
 }
 
 .main_page_title {
@@ -84,7 +84,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    line-height: 1.07
+    line-height: 1.07;
 }
 
 .button {
@@ -94,7 +94,7 @@ body {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
-    background-color: #4D5AE5
+    background-color: #4D5AE5;
 } 
 
 /* section 2 */
@@ -124,7 +124,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
-    text-transform: capitalize
+    text-transform: capitalize;
 }
 
 .titl_logo {
@@ -190,7 +190,7 @@ body {
 }
 
 footer {
-    background-color:#2e2f42
+    background-color:#2e2f42;
 }
 
 .footer {

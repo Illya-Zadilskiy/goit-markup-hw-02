@@ -57,10 +57,7 @@ body {
     color: #2e2f42;
 }
 
-.word_list:hover {
-    color: #404bbf
-}
-
+.word_list:hover,
 .word_list:focus {
     color: #404bbf
 }

@@ -117,6 +117,10 @@ body {
 
 /* section 3 */
 
+.section3_background {
+    background-color: #F4F4FD;
+}
+
 .section3_titl {
     font-weight: 700;
     font-size: 36px;
@@ -170,6 +174,7 @@ body {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-transform: capitalize;
 }
 
 .section4_titl_logo_text {
@@ -181,13 +186,6 @@ body {
 }
 
 /* footer */
-.footer_text{
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;
-}
 
 footer {
     background-color:#2e2f42;
@@ -201,4 +199,22 @@ footer {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
+}
+
+.logo_studio_footer {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #f4f4fd
+}
+
+.footer_text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
 }

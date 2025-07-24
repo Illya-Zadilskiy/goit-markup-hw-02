@@ -63,12 +63,21 @@ body {
 }
 
 .logo_address {
+    
+}
+
+.logo_address_text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
     font-style: normal;
+}
+
+.logo_address_text:hover,
+.logo_address_text:focus {
+    color: #404bbf;
 }
 
 /* section 1 */
@@ -97,7 +106,16 @@ body {
     background-color: #4D5AE5;
 } 
 
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+}
+
 /* section 2 */
+
+.section2_background {
+    background-color: #FFFFFF
+}
 
 .section2_titl {
     font-weight: 500;

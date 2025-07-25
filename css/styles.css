@@ -9,6 +9,7 @@ a {
 }
 
 body {
+    font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
     color: #434455;
 }
@@ -63,7 +64,7 @@ body {
 }
 
 .logo_address {
-    
+    font-style: normal
 }
 
 .logo_address_text {

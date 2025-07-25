@@ -151,6 +151,10 @@ body {
     text-transform: capitalize;
 }
 
+.section3_color {
+    background-color: #FFFFFF;
+}
+
 .titl_logo {
     font-weight: 500;
     font-size: 20px;

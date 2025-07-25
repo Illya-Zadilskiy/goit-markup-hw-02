@@ -12,6 +12,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 .section3_background {
@@ -64,7 +65,7 @@ body {
 }
 
 .logo_address {
-    font-style: normal
+    font-style: normal;
 }
 
 .logo_address_text {
@@ -115,7 +116,7 @@ body {
 /* section 2 */
 
 .section2_background {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .section2_titl {
@@ -184,6 +185,7 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2e2f42;
 }
 
@@ -227,7 +229,7 @@ footer {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #f4f4fd
+    color: #f4f4fd;
 }
 
 .footer_text {

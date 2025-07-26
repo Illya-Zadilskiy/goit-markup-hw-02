@@ -136,11 +136,11 @@ body {
 
 /* section 3 */
 
-.section3_background {
+.section_three_background {
     background-color: #F4F4FD;
 }
 
-.section3_titl {
+.section_three_titl {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -150,7 +150,7 @@ body {
     text-transform: capitalize;
 }
 
-.section3_color {
+.section_three_color {
     background-color: #FFFFFF;
 }
 
@@ -182,7 +182,7 @@ body {
 
 /* section 4 */
 
-.section4_titl {
+.section_four_titl {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -192,7 +192,7 @@ body {
     color: #2e2f42;
 }
 
-.section4_titl_logo {
+.section_four_titl_logo {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -201,7 +201,7 @@ body {
     text-transform: capitalize;
 }
 
-.section4_titl_logo_text {
+.section_four_titl_logo_text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;

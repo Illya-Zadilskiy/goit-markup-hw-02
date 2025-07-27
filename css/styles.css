@@ -9,7 +9,6 @@ a {
 }
 
 body {
-    font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -23,12 +22,7 @@ body {
 /* header */
 
 .logo_italik_nav {
-    font-family: "Raleway", sans-serif;
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+
 }
 
 .logo {
@@ -69,7 +63,6 @@ body {
 }
 
 .logo_address_text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -88,13 +81,11 @@ body {
 }
 
 .main_page_titl {
-    font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
-    line-height: 1.07;
 }
 
 .button {
@@ -119,7 +110,6 @@ body {
 }
 
 .section_two_titl {
-    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -127,7 +117,6 @@ body {
 }
 
 .section_two_titl_text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -141,7 +130,6 @@ body {
 }
 
 .section_three_titl {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -155,7 +143,6 @@ body {
 }
 
 .titl_logo {
-    font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
@@ -164,7 +151,6 @@ body {
 }
 
 .titl_logo_text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -172,18 +158,9 @@ body {
     color: #434455;
 }
 
-.footer_text {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #f4f4fd;
-}
-
 /* section 4 */
 
 .section_four_titl {
-    font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
@@ -202,7 +179,6 @@ body {
 }
 
 .section_four_titl_logo_text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -211,18 +187,8 @@ body {
 
 /* footer */
 
-footer {
-    background-color:#2e2f42;
-}
-
 .footer {
-    font-family: "Raleway", sans-serif;
-    font-weight:700; 
-    font-size: 18px;
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #4d5ae5;
+    background-color: #2e2f42;
 }
 
 .logo_studio_footer {
@@ -236,7 +202,6 @@ footer {
 }
 
 .footer_text {
-    font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;

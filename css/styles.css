@@ -8,6 +8,16 @@ a {
     text-decoration: none;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+margin: 0;
+}
+
+ul, ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -209,6 +219,11 @@ margin-top: 24px;
     color: #2e2f42;
 }
 
+.section_four_titl_img {
+    display: flex;
+    gap: 24px;
+}
+
 .section_four_titl_logo {
     font-weight: 500;
     font-size: 20px;
@@ -229,6 +244,12 @@ margin-top: 24px;
 
 .footer {
     background-color: #2e2f42;
+    padding: 100px, 0, 100px;
+}
+
+.footer a, p {
+    display: inline-block;
+    margin-bottom: 16px;
 }
 
 .logo_studio_footer {

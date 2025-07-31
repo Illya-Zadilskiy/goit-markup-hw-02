@@ -222,11 +222,19 @@ margin-top: 24px;
     text-align: center;
     text-transform: capitalize;
     color: #2e2f42;
+    margin-bottom: 72px;
 }
+
+
 
 .section_four_titl_img {
     display: flex;
     gap: 24px;
+    flex-wrap: wrap;
+    padding: 32px 16px;
+        border: 1px solid #e7e9fc;
+        border-top: none;
+        margin-bottom: 8px
 }
 
 .section_four_titl_logo {

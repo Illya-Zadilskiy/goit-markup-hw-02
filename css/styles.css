@@ -17,12 +17,21 @@ body {
 .section3_background {
     background-color: #FFFFFF;
 }
- 
+
 
 /* header */
 
-.logo_italik_nav {
+.conteiner {
+    max-width: 1158px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.logo_italik_nav {
+display: flex;
+margin-top: 24px;
 }
 
 .logo {
@@ -33,6 +42,8 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    flex-grow: 1;
+    margin-top: 24px;
 }
 
 .logo_studio {
@@ -43,6 +54,7 @@ body {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #2e2f42;
+    margin-top: 24px;
 }
 
 .word_list {
@@ -51,6 +63,8 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    display: flex;
+    gap: 40px;
 }
 
 .word_list:hover,
@@ -60,6 +74,11 @@ body {
 
 .logo_address {
     font-style: normal;
+}
+
+.logo_address_list {
+    display: flex;
+    gap: 40px;
 }
 
 .logo_address_text {
@@ -86,6 +105,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
+    text-align: center;
 }
 
 .button {
@@ -105,8 +125,23 @@ body {
 
 /* section 2 */
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
 .section2_background {
     background-color: #FFFFFF;
+    display: flex;
+    gap: 24px;
 }
 
 .section_two_titl {
@@ -141,6 +176,9 @@ body {
 
 .section_three_color {
     background-color: #FFFFFF;
+    display: flex;
+    gap: 24px;
+    
 }
 
 .titl_logo {

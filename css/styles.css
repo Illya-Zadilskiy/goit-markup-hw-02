@@ -31,7 +31,7 @@ body {
 
 /* header */
 
-.conteiner {
+.container {
     max-width: 1158px;
     padding-left: 15px;
     padding-right: 15px;
@@ -210,6 +210,11 @@ margin-top: 24px;
 
 /* section 4 */
 
+.section_four_titl_blok {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .section_four_titl {
     font-size: 36px;
     line-height: 1.11;
@@ -244,7 +249,8 @@ margin-top: 24px;
 
 .footer {
     background-color: #2e2f42;
-    padding: 100px, 0, 100px;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .footer a, p {

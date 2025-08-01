@@ -256,6 +256,7 @@ padding-bottom: 120px;
 .section_four_titl_blok {
     padding-top: 120px;
     padding-bottom: 120px;
+    padding: 120px 0 120px 0;
 }
 
 .section_four_titl {
@@ -278,6 +279,13 @@ padding-bottom: 120px;
         border: 1px solid #e7e9fc;
         border-top: none;
         margin-bottom: 8px
+}
+
+.section_four_titl_infio {
+    padding: 32px 16px;
+    border: 1px solid #e7e9fc;
+    border-top: none;
+    margin-bottom: 8px;
 }
 
 .section_four_titl_logo {

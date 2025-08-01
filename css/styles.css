@@ -97,6 +97,10 @@ display: flex;
     gap: 40px;
 }
 
+.word_list a {
+    padding: 24px 0;
+}
+
 .word_list:hover,
 .word_list:focus {
     color: #404bbf;
@@ -107,9 +111,8 @@ display: flex;
 }
 
 .logoddresslist {
-    gap: 40px;
     display: flex;
-    margin-right: 40px;
+    gap: 40px;
 }
 
 .logo_info {

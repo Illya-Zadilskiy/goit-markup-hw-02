@@ -47,6 +47,10 @@ body {
     margin-right: auto;
 }
 
+.logo_header {
+    display: flex;
+}
+
 .logo_italik_nav {
 align-items: center;
 padding-top: 24px;
@@ -68,6 +72,7 @@ display: flex;
     text-transform: uppercase;
     flex-grow: 1;
     margin-top: 24px;
+    margin-right: 76px;
 }
 
 .logo_studio {
@@ -79,6 +84,7 @@ display: flex;
     text-transform: uppercase;
     color: #2e2f42;
     margin-top: 24px;
+    margin-right: 76px;
 }
 
 .word_list {

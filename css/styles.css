@@ -180,10 +180,11 @@ padding-bottom: 120px;
     background-color: #FFFFFF;
     display: flex;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
-    flex-basis: calc((100% - 3 * 24px) / 4)
 }
-
+.section_two_background_titl {
+width: calc((100% - 72px) / 4);
+flex-basis: calc((100% - 3 * 24px) / 4);
+}
 .section_two_titl {
     font-weight: 500;
     font-size: 20px;

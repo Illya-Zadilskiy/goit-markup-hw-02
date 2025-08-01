@@ -31,6 +31,10 @@ body {
 
 /* header */
 
+.header_naw {
+    border-bottom: 1px solid #e7e9fc;
+}
+
 .container {
     max-width: 1158px;
     padding-left: 15px;
@@ -41,7 +45,13 @@ body {
 
 .logo_italik_nav {
 display: flex;
-margin-top: 24px;
+align-items: center;
+padding-top: 24px;
+padding-bottom: 24px;
+}
+
+.logo .logo_studio {
+    margin-right: 76px;
 }
 
 .logo {
@@ -86,9 +96,11 @@ margin-top: 24px;
     font-style: normal;
 }
 
-.logo_address_list {
+.logo_address_list li {
     display: flex;
     gap: 40px;
+    margin-right: 40px;
+    margin-right: 0;
 }
 
 .logo_address_text {

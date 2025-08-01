@@ -47,10 +47,6 @@ body {
     margin-right: auto;
 }
 
-.logo_header {
-    display: flex;
-}
-
 .logo_italik_nav {
 align-items: center;
 padding-top: 24px;
@@ -109,6 +105,12 @@ display: flex;
 .logo_address_list {
     gap: 40px;
     display: flex;
+    margin-right: 40px;
+}
+
+.logo_info {
+    display: flex;
+    margin-right: 0;
 }
 
 .logo_address_text {

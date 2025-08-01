@@ -157,6 +157,11 @@ display: flex;
 
 /* section 2 */
 
+.section_two_info {
+padding-top: 120px;
+padding-bottom: 120px;
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
@@ -168,12 +173,15 @@ display: flex;
     clip-path: inset(100%);
     clip: rect(0 0 0 0);
     overflow: hidden;
+    margin-bottom: 8px;
 }
 
-.section2_background {
+.section_two_background {
     background-color: #FFFFFF;
     display: flex;
     gap: 24px;
+    width: calc((100% - 72px) / 4);
+    flex-basis: calc((100% - 3 * 24px) / 4)
 }
 
 .section_two_titl {

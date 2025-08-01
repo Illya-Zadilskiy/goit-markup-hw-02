@@ -8,6 +8,10 @@ a {
     text-decoration: none;
 }
 
+img {
+    display: block;
+}
+
 h1, h2, h3, h4, h5, h6, p {
 margin: 0;
 }
@@ -44,10 +48,10 @@ body {
 }
 
 .logo_italik_nav {
-display: flex;
 align-items: center;
 padding-top: 24px;
 padding-bottom: 24px;
+display: flex;
 }
 
 .logo .logo_studio {
@@ -96,11 +100,9 @@ padding-bottom: 24px;
     font-style: normal;
 }
 
-.logo_address_list li {
-    display: flex;
+.logo_address_list {
     gap: 40px;
-    margin-right: 40px;
-    margin-right: 0;
+    display: flex;
 }
 
 .logo_address_text {
@@ -119,6 +121,8 @@ padding-bottom: 24px;
 
 .main_page {
     background-color:#2e2f42;
+    padding-top: 188px;
+    padding-bottom: 188px;
 }
 
 .main_page_titl {
@@ -128,6 +132,7 @@ padding-bottom: 24px;
     text-align: center;
     color: #fff;
     text-align: center;
+    max-width: 496px;
 }
 
 .button {
@@ -138,6 +143,11 @@ padding-bottom: 24px;
     letter-spacing: 0.04em;
     color: #fff;
     background-color: #4D5AE5;
+    display: block;
+    min-width: 169px;
+    height: 56px;
+    border: none;
+    border-radius: 4px;
 } 
 
 .button:hover,

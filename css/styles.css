@@ -183,8 +183,8 @@ padding-bottom: 120px;
     gap: 24px;
 }
 .section_two_background_titl {
-    width: calc( (100% - 72px) / 4);
-    flex-basis: calc( (100% - 3 * 24px) / 4);
+    width: calc( (100% - 72px)/ 4);
+    flex-basis: calc( (100% - 3 * 24px)/ 4);
 }
 .section_two_titl {
     font-weight: 500;

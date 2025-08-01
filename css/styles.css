@@ -39,6 +39,10 @@ body {
     border-bottom: 1px solid #e7e9fc;
 }
 
+.container_hed {
+    display: flex;
+}
+
 .container {
     max-width: 1158px;
     padding-left: 15px;
@@ -100,19 +104,16 @@ display: flex;
 
 .logo_address {
     font-style: normal;
-    padding: 24px 0;
-    padding: 24px 0 24px;
 }
 
-.logo_address_list {
+.logoddresslist {
     gap: 40px;
     display: flex;
     margin-right: 40px;
 }
 
 .logo_info {
-    display: flex;
-    margin-right: 0;
+    margin-right: 40px;
 }
 
 .logo_address_text {
@@ -120,7 +121,10 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
 
+.logo_info_info {
+    margin-right: 0;
 }
 
 .logo_address_text:hover,

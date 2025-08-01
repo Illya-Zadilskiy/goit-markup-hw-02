@@ -100,9 +100,6 @@ display: flex;
 
 .logo_address {
     font-style: normal;
-    padding: 24px 0;
-    padding-top: 24px;
-    padding-bottom: 24px;
 }
 
 .logo_address_list {
@@ -121,6 +118,9 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    padding: 24px 0;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .logo_address_text:hover,

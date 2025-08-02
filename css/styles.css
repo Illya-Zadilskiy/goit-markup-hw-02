@@ -110,9 +110,16 @@ display: flex;
     font-style: normal;
 }
 
-.logoddresslist {
+.logo-ddress-list {
     display: flex;
     gap: 40px;
+}
+
+.logo-ddress-list .logo-info {
+    margin-right: 40px;
+}
+
+.logo-ddress-list .logo-info:last-child {
     margin-right: 0;
 }
 
@@ -125,10 +132,6 @@ display: flex;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-}
-
-.logo-info-info {
-    margin-right: 0;
 }
 
 .logo-address-text:hover,

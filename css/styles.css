@@ -113,17 +113,6 @@ display: flex;
 .logo-ddress-list {
     display: flex;
     gap: 40px;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-}
-
-.logo-ddress-list .logo-info {
-    margin-right: 40px;
-}
-
-.logo-ddress-list .logo-info:last-child {
-    margin-right: 0;
 }
 
 .logo-info {

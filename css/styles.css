@@ -111,6 +111,10 @@ display: flex;
 }
 
 .logo-address-list {
+    
+}
+
+.inter {
     display: flex;
     gap: 40px;
     padding: 0;

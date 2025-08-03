@@ -114,8 +114,8 @@ display: flex;
 }
 
 .logo-address-list {
-    display: flex;
     gap: 40px;
+    display: flex;
 }
 
 .logo-info {
